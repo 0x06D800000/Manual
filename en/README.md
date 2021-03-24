@@ -6,11 +6,11 @@
 
 > Project Reality: BF2 находится в разработке бесчисленных разработчиков в течение более чем 15 лет. За это время были внесены обширные модификации и улучшения. После тысяч изменений становится все труднее и труднее признать, что PR - это модификация Battlefield 2. Мы надеемся, что это руководство станет для вас хорошим началом в непростом мире PR: BF2.Если у вас есть какие-либо отзывы или вопросы, на которые нет ответа по поводу этого документа, не стесняйтесь обращаться к нам на форумах.
 >
-> _The PR-Team_
+> _Команда PR_
 
 **Introduction**
 
-This introduction will give a brief overview into what you can expect when you begin playing the Project Reality modification for Battlefield 2. This modification has a level of complexity and teamworkвцвфывцввввввввввввввввввввввввввввв that you won’t find in most modern first person shooter games, while it still finds the balance between simulation and gameplay. Due to the steep learning curve, we highly recommended that all new players read through this manual thoroughly prior to joining an online game.
+В этом введении дается краткий обзор того, что вы можете ожидать, когда начнете играть в модификацию Project Reality для Battlefield 2. Эта модификация имеет такой уровень сложности и командной работы, который вы не найдете в большинстве современных шутеров от первого лица. находит баланс между симуляцией и игровым процессом. Из-за большого объёма (uнформацuu)ch мы настоятельно рекомендуем всем новым игрокам внимательно прочитать это руководство перед тем, как присоединиться к онлайн-игре.
 
 The primary core ethos of Project Reality is teamwork. Coordination within your squad, between squads and throughout your team is paramount. The role of squad leader and the commander is essential to success in PR and the direction of the game is dictated by those in leadership positions and carried out by the players. PR:BF2 contains a multitude of gameplay mechanics which differentiate roles within a squad and the team. It also gives squad leaders and team commanders the ability to deploy emplacement assets such as foxholes, machine gun nests and mortar pits to fortify the defence of spawn locations known as FOBs. In addition, the role of players within a squad has been greatly diversified, and is reflected in an expanded selection of standard and limited specialty kits for various infantry load outs alongside unique kits for operating mechanized and aviation vehicles.
 
