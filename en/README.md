@@ -16,5 +16,6 @@ The primary core ethos of Project Reality is teamwork. Coordination within your 
 
 Another core fundamental aspect of PR is how players communicate. Communication in PR is an essential element of gameplay and we recommend that all players are microphone ready when they begin playing online. To ensure enhanced communication, an integrated version of PR Mumble voice communication software gives players abilities not available with built in BF2 voice-over-IP, such as the ability to talk to other players within the local vicinity, regardless of which squad they are in, as well as transmit to squad members over the squad radio no matter where they are on the battlefield. No additional installation is required, which means every player on the battlefield will have the same communications setup and can communicate effortlessly.
 
-This mod was made by players, for players so don't be afraid to ask for help in-game or on the forums at [realitymod.com](https://www.realitymod.com/forum/forumdisplay.php?f=27). Again, welcome to PR and a totally new gaming experience!
+Этот мод был сделан игроками для игроков, так что не бойтесь задавать вопросы на форуме realitymod.com. Добро пожаловать в ProjectReality - новый мир захватывающих игровых 
+ощущений
 
